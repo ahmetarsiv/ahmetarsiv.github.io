@@ -1,1 +1,0 @@
-# ahmetarsiv.github.io
