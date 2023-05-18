@@ -1,10 +1,7 @@
 import Head from 'next/head'
-import {Inter} from 'next/font/google'
 import NavLink from "@/pages/components/NavLink";
 import CardGrid from "@/pages/components/CardGrid";
 import WorkExperience from "@/pages/components/WorkExperience";
-
-const inter = Inter({subsets: ['latin']})
 
 export default function Home() {
     return (
